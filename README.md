@@ -155,3 +155,16 @@ Real-time drone feed
 Alert and notification system
 Cloud deployment
 
+## 📸 Screenshots
+
+### Dashboard View
+![risk_plot](assets/screenshots/risk_plot.png)
+
+### GIS Map View
+![Map](assets/screenshots/map.png)
+
+### Risk Charts
+![envirnment_inputs](assets/screenshots/envirnment_inputs.png)
+
+
+
